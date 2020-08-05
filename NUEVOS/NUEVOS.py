@@ -14,7 +14,7 @@ else:
 print("------")
 def holis():#funcion
     print("funcion 1")
-    print("funcion 2")
+    print("funcion 2")#comentario
 print("------")
 for d in range(3):
     d+=1
